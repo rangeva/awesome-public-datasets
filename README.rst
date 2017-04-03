@@ -452,6 +452,7 @@ Search Engines
 * `Open Data Certificates (beta) <https://certificates.theodi.org/en/datasets>`_
 * `OpenDataNetwork - A search engine of all Socrata powered data portals <http://www.opendatanetwork.com/>`_
 * `Statista.com - statistics and Studies <http://www.statista.com/>`_
+* `Webhose.io <https://webhose.io/>`_
 * `Zenodo - An open dependable home for the long-tail of science <https://zenodo.org/collection/datasets>`_
 
 
